@@ -1,2 +1,0 @@
-# Fitxer MD
-# Guillem Cañas
